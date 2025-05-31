@@ -3,7 +3,7 @@ site_url: https://cbopa.github.io/aludk/
 
 theme:
   name: material
-  favicon: stankin-favicon.png
+  favicon: favicon.png
   logo: stankin-favicon.png
   palette:
     - scheme: default
